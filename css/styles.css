@@ -11,18 +11,44 @@ h1{
 h5{
     color: #ff702a;
     text-align: center;
+    font-family:'sans-serif';
 }
 h2{
     color: white;
+    font-family:'sans-serif';
+    font-size: 40px;
+}
+h3{
+    color: white;
     text-align: center;
+    font-family:'sans-serif';
+    font-size: 40px;
+}
+.text-inicio{
+    color: #fff;
+    font-size: 30px;
+    font-family:'sans-serif';
+}
+.text-servi{
+    color: white;
+    font-family:'sans-serif';
+    font-size: 15px;
 }
 .text-intro{
     color: white;
     text-align: center;
+    font-family:'sans-serif';
+}
+.text-oran1{
+    color: #ff702a;
+    font-family:'sans-serif';
+    font-size: 20px;
 }
 .text-oran{
     color: #ff702a;
     text-align: center;
+    font-family:'sans-serif';
+    font-size: 20px;
 }
 .img-centro{
     text-align: center;
@@ -30,8 +56,23 @@ h2{
 .btn{
     background-color: #ff702a;
     color: white;
+    font-family:'sans-serif';
+}
+.card-text{
+    text-align: center;
 }
 .espacio{
     margin-top: 60px;
     margin-bottom: 60px;
+}
+.espacio2{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.espacio3{
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+.espacio4{
+    margin-bottom: 80px;
 }
